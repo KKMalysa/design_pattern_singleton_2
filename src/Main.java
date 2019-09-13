@@ -1,3 +1,7 @@
+/**
+ * prosta gra w zgadywanie cyfr
+ */
+
 import singleton.GuessGame;
 
 public class Main {
